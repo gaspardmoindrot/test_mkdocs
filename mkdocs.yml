@@ -1,0 +1,5 @@
+site_name: TEST
+
+nav:
+  - Home: index.md
+  - About: about.md
